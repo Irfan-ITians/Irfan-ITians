@@ -68,7 +68,7 @@ Welcome to my GitHub profile! 🚀 I specialize in building dynamic cross-platfo
 ---
 
 ## *📫 Let's Connect*
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-irfan/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/irfan-gill/) 
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=Leetcode&logoColor=white)](#) 
 
 Feel free to reach out for collaborations, discussions, or just to say hi! 😊
