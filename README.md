@@ -1,7 +1,10 @@
 # 👨‍💻 Muhammad Irfan  
-*🎯 Full Stack Flutter Developer | Backend Engineer | Software Architect*
+*🎯 Full Stack Developer | Flutter & Laravel Specialist | Cross-Platform Apps (iOS/Android) | API Integration | App Monetization | Open to Remote & Onsite Opportunities | Google Play Console Manager
 
-Welcome to my GitHub profile! 🚀 I specialize in building dynamic cross-platform applications, crafting robust backend systems, and managing complex data solutions. With my expertise, I’ve delivered numerous live projects for clients worldwide, now available on the Google Play Store. I'm passionate about solving intricate problems and delivering scalable, efficient solutions.
+Versatile Full Stack Flutter Developer with 2+ years of experience building
+ cross-platform mobile/web applications. Proficient in Dart/Flutter for frontend
+ and Laravel for backend, with expertise in RESTful API integration, Play
+ Console deployment, and scalable solutions in agile environments.
 
 ---
 
