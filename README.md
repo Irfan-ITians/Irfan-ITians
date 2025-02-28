@@ -61,7 +61,7 @@ App Monetization | Google Play Console Manager | Open to Remote & Onsite Opportu
 | **[Manavshakti App](#)**       | A spiritual and meditation-based mobile application. | [GitHub](#) |
 | **[Giphy App](#)**             | A fun and interactive app for discovering trending GIFs. | [GitHub](#) |
 | **[Yuyki App](#)**             | A social networking and community engagement app. | [GitHub](https://github.com/Irfan-ITians/yuyki) |
-| **[Live Tracking App](#)**     | Real-time location tracking with Firebase, Google Maps API & Flutter. | [GitHub](#) |
+| **[Live Tracking App](#)**     | Real-time location tracking with Firebase, Google Maps API & Flutter. | [GitHub](https://github.com/Irfan-ITians/Calorie-Tracking-App) |
 | **[Flutter E-Commerce App](#)** | A fully functional Flutter-based e-commerce app with API integration, search, and favorites. | [GitHub](https://github.com/Irfan-ITians/Flutter-Task) |
 
 
